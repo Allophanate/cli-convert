@@ -1,0 +1,26 @@
+{
+		"pressure": {
+			"bar": 1,
+			"mbar": 1000,
+			"Pa": 100000,
+			"hPa": 1000,
+			"kPa": 100,
+			"MPa": 0.1,
+			"atm": 1.01325,
+			"psi": 14.054
+		},
+		"temperature": [
+			"celsius",
+			"fahrenheit"
+		],
+		"volume_flow": {
+			"m3/s": 1,
+			"m3/h": 3600,
+			"l/s": 1000,
+			"l/min": 60000,
+			"l/h": 3600000,
+			"cfm": 2118.88,
+			"ccm": 60000000,
+			"cms": 1
+	}
+}
